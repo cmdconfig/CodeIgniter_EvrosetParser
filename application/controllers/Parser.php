@@ -19,7 +19,6 @@ class Parser extends CI_Controller {
         $this->load->model('Parsermodel');
     }
 
-
     /**
      * Метод скачивает страницы
      */
